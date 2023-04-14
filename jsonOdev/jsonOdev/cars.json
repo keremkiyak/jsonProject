@@ -1,0 +1,50 @@
+[
+  {
+    
+    "title": "Mercedes-Benz S-Class",
+    "description": "Mercedes-Benz S-Class, dünyanın en lüks ve teknolojik açıdan en gelişmiş otomobillerinden biridir. Bu araç, özellikle 2020 modeli ile, birçok sürücü destek özelliği ve sürüş konforu sağlamak için tasarlanmıştır. Ayrıca, birçok çevreci özellikleri de bulunmaktadır. ",
+    "image_url": "mercedes"
+  },
+  {
+    
+    "title": "Porsche 911",
+    "description": "Porsche 911, otomotiv endüstrisi için bir semboldür. Bu ikonik araç, 1960'larda piyasaya sürüldü ve o zamandan beri sürüş keyfi, performans ve zarafetin bir simgesi haline geldi. 911, bugün hala yarış pistlerinde ve normal yollarda en iyi performanslardan birini sunmaya devam ediyor.",
+    "image_url": "porsche"
+  },
+  {
+    
+    "title": "Ferrari SF90 Stradale",
+    "description": "Ferrari SF90 Stradale, Ferrari'nin en güçlü ve teknolojik açıdan gelişmiş aracıdır. Bu hibrit araç, yaklaşık 1000 beygir gücüne sahiptir ve elektrik motorları ve benzinli motoru birleştirerek inanılmaz bir performans ve sürüş keyfi sunar. Ayrıca, Ferrari'nin son derece tanınmış tasarımına sahiptir.",
+    "image_url": "ferrari"
+  },
+  {
+    
+    "title": "Audi e-tron GT",
+    "description": "Audi e-tron GT, elektrikli bir araba olmasına rağmen, oldukça sportif bir araçtır. Bu araç, Audi'nin son derece başarılı tasarım diliyle tasarlanmıştır ve yaklaşık 590 beygir gücüne sahip olan çift elektrik motoru tarafından güçlendirilir. Ayrıca, yaklaşık 400 kilometre menzil sunar.",
+    "image_url": "audi"
+},
+{
+   
+    "title": "Tesla Model S",
+    "description": "Tesla Model S, tamamen elektrikli bir araba olmasına rağmen, oldukça yüksek performans sunan lüks bir sedan araçtır. 2021 modeli, yaklaşık 1000 beygir gücüne sahip ve sadece 1.98 saniyede 0'dan 100 km/s hıza ulaşabilen en hızlı seri üretim araçlardan biridir. Ayrıca, 650 km'ye kadar menzil sunar.",
+    "image_url": "tesla"
+  },
+  {
+    
+    "title": "BMW M8",
+    "description": "BMW M8, son derece lüks ve yüksek performanslı bir coupe araçtır. Bu araç, 4.4 litrelik çift turbolu V8 motorla güçlendirilmiştir ve yaklaşık 625 beygir gücüne sahiptir. M8, ayrıca son derece rafine bir iç mekana ve birçok sürücü destek özelliğine sahiptir.",
+    "image_url": "bmw"
+  },
+  {
+    
+    "title": "Lamborghini Urus",
+    "description": "Lamborghini Urus, dünyanın en hızlı SUV'larından biridir. Bu araç, yaklaşık 650 beygir gücüne sahip bir V8 motora sahiptir ve 3.6 saniyede 0'dan 100 km/s hıza ulaşabilir. Urus ayrıca, son derece sportif tasarımı ve Lamborghini'nin özgün stiline sahip özel bir iç mekana sahiptir.",
+    "image_url": "lamborghini"
+  },
+  {
+    
+    "title": "Ford Mustang",
+    "description": "Ford Mustang, otomotiv endüstrisi için bir diğer sembolik araçtır. Bu araç, 1960'ların başında piyasaya sürüldü ve o zamandan beri sürüş keyfi ve sportif tasarımıyla tanınmaktadır. Bugün, Mustang hala Amerikan kültüründe önemli bir yer tutmakta ve farklı modelleriyle birçok hayranı bulunmaktadır.",
+    "image_url": "ford"
+  }
+]
